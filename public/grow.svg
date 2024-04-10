@@ -1,0 +1,19 @@
+<svg width="123" height="158" viewBox="0 0 123 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M122.5 1.00049H97.1421C94.49 1.00049 91.9464 2.05406 90.0711 3.92942L33.9289 60.0716C32.0536 61.9469 29.51 63.0005 26.8579 63.0005H0.5" stroke="url(#paint0_radial_2862_79)"/>
+<path d="M122.5 48.0005H97.1421C94.49 48.0005 91.9464 49.0541 90.0711 50.9294L33.9289 107.072C32.0536 108.947 29.51 110 26.8579 110H0.5" stroke="url(#paint1_radial_2862_79)"/>
+<path d="M122.5 95.0005H97.1421C94.49 95.0005 91.9464 96.0541 90.0711 97.9294L33.9289 154.072C32.0536 155.947 29.51 157 26.8579 157H0.5" stroke="url(#paint2_radial_2862_79)"/>
+<defs>
+<radialGradient id="paint0_radial_2862_79" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(61.5 32.0005) rotate(90) scale(58 114.129)">
+<stop stop-color="#C192FD"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_2862_79" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(61.5 79.0005) rotate(90) scale(58 114.129)">
+<stop stop-color="#C192FD"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_2862_79" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(61.5 126) rotate(90) scale(58 114.129)">
+<stop stop-color="#C192FD"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
